@@ -33,9 +33,9 @@ const Home = () => {
             />
           </span>
         </h4>
-        <p className="py-2">
-        Soy un experimentado Ingeniero de Desarrollo de Software con más de nueve años de experiencia en el campo de la Tecnología de la Información. Desde mis días de secundaria, he estado profundamente inmerso en la tecnología, fomentando una pasión que ha guiado mi trayectoria profesional. Mi amplia experiencia abarca proyectos pequeños, medianos y de gran escala, lo que me ha permitido cultivar un conjunto de diversas habilidades y una sólida red de contactos que me consideran un hábil Desarrollador Full Stack.
-         </p>
+        <p className="py-2 mb-4">
+        Ingeniero de Desarrollo de Software con más de nueve años de experiencia en Tecnología de la Información. Mi pasión por la tecnología ha guiado mi carrera desde la secundaria. He trabajado en proyectos de diferentes escalas, desarrollando habilidades diversas y construyendo una sólida red de contactos como Desarrollador Full Stack. </p>
+    
         {/* social icons */}
         <SocialIcons />
       </motion.div>

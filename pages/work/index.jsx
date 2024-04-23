@@ -27,7 +27,7 @@ const Work = () => {
             <span className="text-[45px] lg:text-[54px] font-extrabold text-white/5 absolute top-[50%] left-1/2 -translate-x-1/2 -translate-y-1/2 ">Mis Proyectos</span>
           </h3>
         </div>
-        <p className="text-center max-w-md mx-auto text-gray-20">Cada proyecto representa mi compromiso con la innovación, la creatividad y la excelencia técnica en el desarrollo de software. Desde aplicaciones web y móviles hasta soluciones de backend complejas, cada trabajo demuestra mi habilidad para enfrentar desafíos técnicos y crear productos digitales de calidad.</p>
+        <p className="text-center max-w-md mx-auto text-gray-20">Desde aplicaciones web y móviles hasta soluciones de backend complejas, cada trabajo demuestra mi habilidad para enfrentar desafíos técnicos.</p>
       </motion.div>
       {/* Swiper */}
       <motion.div

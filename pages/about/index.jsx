@@ -68,24 +68,6 @@ const About = () => {
   </div>
   <div>
     <div className="flexBetween text-sm text-gray-20">
-      <span>Node.js, ASP.NET Core, .NET Framework</span>
-      <span>90%</span>
-    </div>
-    <div className="relative bg-tertiary h-3 w-full rounded-full">
-      <span className="absolute top-0 left-0 h-full w-[90%] bg-green-500 rounded-full"></span>
-    </div>
-  </div>
-  <div>
-    <div className="flexBetween text-sm text-gray-20">
-      <span>SQL, NoSQL</span>
-      <span>80%</span>
-    </div>
-    <div className="relative bg-tertiary h-3 w-full rounded-full">
-      <span className="absolute top-0 left-0 h-full w-[80%] bg-red-500 rounded-full"></span>
-    </div>
-  </div>
-  <div>
-    <div className="flexBetween text-sm text-gray-20">
       <span>Express.js, ASP.NET MVC, Next.js, Cosmic JS, Electron</span>
       <span>83%</span>
     </div>

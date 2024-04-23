@@ -25,7 +25,7 @@ const Testimonials = () => {
             <span className="text-[45px] lg:text-[54px] font-extrabold text-white/5 absolute top-[50%] left-1/2 -translate-x-1/2 -translate-y-1/2 ">Voces que respaldan</span>
           </h3>
         </div>
-        <p className="text-center max-w-md mx-auto text-gray-20 mb-16">Testimonios que respaldan mi experiencia en el desarrollo de soluciones digitales efectivas. Mi expertise abarca diversas tecnologías, permitiéndome abordar desafíos con confianza y eficacia.</p>
+        <p className="text-center max-w-md mx-auto text-gray-20 mb-16">Mi expertise abarca diversas tecnologías, permitiéndome abordar desafíos con confianza y eficacia.</p>
       </motion.div>
       {/* Swiper */}
       <motion.div

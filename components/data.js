@@ -188,7 +188,7 @@ export const testimonialData = [
     name: 'Edwin Uriel',
     position: 'Fundador del Cazatalentos',
     message:
-      'El equipo detrás de nuestra página web de conciertos y votación hizo un trabajo increíble; estamos muy satisfechos con su trabajo.',
+      'El equipo detrás de nuestra página web de conciertos y votación hizo un trabajo increíble; estamos muy satisfechos con su trabajo, esperamos volver a colaborar juntos otra vez.',
   },
   {
     url: '/person-3.jpg',
