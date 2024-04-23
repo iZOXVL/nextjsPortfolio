@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import Head from 'next/head'
 import "./globals.css";
 import { Inter } from 'next/font/google'
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,6 +18,7 @@ export default function Layout({ children }) {
         <Nav />
         <Header />
         <main>
+        <SpeedInsights />
           {children}
         </main>
       </div>
