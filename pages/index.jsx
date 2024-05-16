@@ -45,10 +45,9 @@ const Home = () => {
         initial='hidden'
         animate='show'
         exit='hidden'
-        className="flex flex-1 relative"
+        className="flex flex-1 relative lg:block hidden"
       >
         <Image src={'/hero-2.png'} alt="heroImg" width={400} height={400} className="w-[277px] h-auto lg:w-full relative pt-10" />
-
       </motion.div>
     </section>
   )
