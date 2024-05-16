@@ -16,8 +16,8 @@ const About = () => {
         exit='hidden'
         className="flex flex-1 flex-col flexCenter lg:justify-start"
       >
-        <h3 className="h3 text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl">Desarrollador <span className="text-secondary">Web Full Stack</span> y Diseñador UI/UX.</h3>
-        <p className="text-center lg:text-start hidden sm:block">Más de una década de experiencia en desarrollo web y diseño de interfaces. Comprometido con la innovación y la excelencia en cada proyecto.</p>
+        <h3 className="h3 text-lg sm:text-xl md:text-2xl lg:text-3xl xl:text-4xl">Desarrollador <span className="text-secondary">Web Full Stack</span> y Diseñador UI/UX</h3>
+        <p className="text-center lg:text-start hidden sm:block">Más de una década de experiencia en desarrollo web y diseño de interfaces. Comprometido con la innovación y la excelencia en cada proyecto</p>
         {/* counter */}
         <div>
           <div className="hidden lg:flex flex-1 mt-8 gap-2">
